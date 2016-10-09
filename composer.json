@@ -1,0 +1,15 @@
+{
+    "homepage": "http://horusapp.github.io/api",
+    "description": "HorusApp API",
+    "keywords": ["horusapp", "api"],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/src"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.0",
+        "symfony/psr-http-message-bridge": "^0.2.0",
+        "ext-mcrypt": "*"
+    }
+}
