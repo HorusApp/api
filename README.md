@@ -8,6 +8,8 @@ API está disponível no link [fiap-horusapp.herokuapp.com](fiap-horusapp.heroku
 <br>
 Banco de dados utilizado foi o Postgres e pode ser setado seguindo o arquivo `db.sql`
 
+- **Dependências**
+<br>
 ```
 composer install
 ```
